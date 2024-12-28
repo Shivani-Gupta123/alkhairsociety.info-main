@@ -8970,7 +8970,7 @@ POPUP FORM
 	transition: opacity 0.3s 0s, visibility 0s 0s;
   }
 
-  .whatsapp-link img {
+  .call-link img {
 	height: 58px;
 	width: 160px;
 	position: fixed;
